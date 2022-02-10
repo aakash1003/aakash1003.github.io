@@ -15,10 +15,10 @@ const Footer = () => {
         <div className='social-icons d-flex justify-content-center mt-5'>
           <Bounce bottom cascade big duration={2000}>
             <ul className='list-unstyled'>
-              <li className='float-start px-3 fs-3'><a><FaFacebook/></a></li>
-              <li className='float-start px-3 fs-3'><a><FaGithub/></a></li>
-              <li className='float-start px-3 fs-3'><a><FaLinkedin/></a></li>
-              <li className='float-start px-3 fs-3'><a><FaTwitter/></a></li>
+              <li><a className='float-start px-3 fs-3' href='https://www.facebook.com/profile.php?id=100005963888429 '><FaFacebook/></a></li>
+              <li><a className='float-start px-3 fs-3' href='https://github.com/aakash1003'><FaGithub/></a></li>
+              <li><a className='float-start px-3 fs-3' href='https://www.linkedin.com/in/aakash-sh1/'><FaLinkedin/></a></li>
+              <li><a className='float-start px-3 fs-3' href='https://twitter.com/Aakash_Sh1'><FaTwitter/></a></li>
             </ul>
           </Bounce>
           

@@ -35,7 +35,7 @@ const Home = () => {
             <div className='social__icons'>
                 <Fade top duration={3000} cascade big>
                     <ul>
-                        <li><a className='text-secondary' href='https://www.linkedin.com/in/aakash-sh1/ '><FaFacebook/></a></li>
+                        <li><a className='text-secondary' href='https://www.facebook.com/profile.php?id=100005963888429 '><FaFacebook/></a></li>
                         <li><a className='text-secondary' href='https://github.com/aakash1003'><FaGithub/></a></li>
                         <li><a className='text-secondary' href='https://www.linkedin.com/in/aakash-sh1/'><FaLinkedin/></a></li>
                         <li><a className='text-secondary' href='https://twitter.com/Aakash_Sh1'><FaTwitter/></a></li>
