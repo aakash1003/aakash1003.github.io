@@ -13,7 +13,7 @@ const Footer = () => {
         </Fade>
         
         <div className='social-icons mt-5 d-flex justify-content-center'>
-          <Bounce bottom cascade big duration={2000}>
+          <Bounce bottom cascade big duration={1000}>
             <ul className='list-unstyled'>
               <li className='d-inline-block'><a className='text-secondary  px-3 fs-3' href='https://www.facebook.com/profile.php?id=100005963888429 '><FaFacebook/></a></li>
               <li className='d-inline-block'><a className='text-secondary  px-3 fs-3' href='https://github.com/aakash1003'><FaGithub/></a></li>

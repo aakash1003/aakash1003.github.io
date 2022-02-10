@@ -7,7 +7,6 @@ import Home from './components/Home/Home';
 import Navbar from './components/navbar/Navbar';
 import Portfolio from './components/Portfolio/Portfolio';
 import Skills from './components/skills/Skills';
-import SnowStorm from 'react-snowstorm';
 
 function App() {
   return (
@@ -16,8 +15,7 @@ function App() {
       <Navbar/>
       <Home/>
       <About/>
-      <Skills/>
-      
+      <Skills/>  
       <Portfolio/>
       <Contact/>
       <Footer/>

@@ -3,7 +3,7 @@ import './Navbar.css'
 
 const Navbar = () => {
   return (
-    <div className='container'>
+    <div className='container p-0'>
       <nav className="navbar navbar-expand-lg navbar-light mx-30 fixed-top">
             <div className="container p-0"> 
               <a className="navbar-brand p-2 text-center fw-bolder" href="#">

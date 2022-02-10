@@ -42,9 +42,16 @@
 }
 
 
+
 @media (max-width:980px) {
-    .img img{
+    .img .img-1{
         width: 50%;
+    }
+    .skills_section .img-2{
+        visibility: hidden;
+    }
+    .skills_section .img-3{
+        visibility: hidden;
     }
   
 }
