@@ -1,0 +1,31 @@
+#about{
+    background-color: lightgray;
+}
+
+.about__content{
+    letter-spacing: 2px;
+}
+
+.about__content p{
+    font-size: 14px;
+}
+
+#about .col-sm-12 img{
+    width: 350px;
+}
+
+.about__img img{
+    border-radius: 50%;
+    border-bottom: 5px solid gray;
+    transition: ease-in-out 0.6s;
+}
+
+.about__img img:hover{
+    box-shadow: 0px 3px 4px 1px rgb(158, 158, 158);
+}
+
+.about__buttons .btn{
+    border-radius: 70px;
+    transition: ease-in-out 0.6s;
+}
+

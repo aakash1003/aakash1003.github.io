@@ -1,0 +1,41 @@
+
+/* 
+.container h1{
+    font-size: 80px;
+    font-weight: 1000;
+} */
+
+
+.social__icons{
+    display: flex;
+    justify-content: center;
+
+}
+.social__icons li{
+    list-style: none;
+    float: left;
+    padding: 20px;
+    font-size: 28px;
+    cursor: pointer;
+  
+
+}
+
+.social__icons li a{
+    transition: ease-in-out 0.6s;
+}
+
+.social__icons li a:hover{
+    font-size: 32px;
+}
+
+
+.resume__button{
+   display: flex;
+   justify-content: center;
+}
+
+.resume__button button{
+   transition: ease-in-out 0.6s;
+    
+}

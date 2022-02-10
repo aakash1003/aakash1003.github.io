@@ -1,0 +1,21 @@
+
+.navbar-brand img{
+    max-width: 50px;
+}
+
+.nav-link{
+    transition: ease-in-out 0.8s!important;
+
+    font-size: 20px;
+  
+}
+.nav-link:hover{
+    color:red!important;
+    border-bottom:2px solid red!important;
+    font-size: 21px;
+ 
+}
+
+.btn{
+    border-radius: 50px!important;
+}
