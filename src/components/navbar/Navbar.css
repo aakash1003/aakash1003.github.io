@@ -1,4 +1,8 @@
 
+.navbar{
+    background-color: white;
+}
+
 .navbar-brand img{
     max-width: 50px;
 }
